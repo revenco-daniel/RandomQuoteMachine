@@ -1,0 +1,39 @@
+*{
+    transition: all 0.3s ease-in-out;
+}
+
+#quote-box{
+    width: 27em;
+    font-size: 1.5em;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+#text{
+    text-align: center;
+}
+
+#author{
+    text-align: right;
+}
+
+.btn{
+    margin: 2px;
+}
+
+.creator {
+    width: 15rem;
+    text-align: center;
+    display: block;
+    margin: 15px auto 30px auto;
+    font-size: 1em;
+    color: #000000;
+}
+
+
+
+
+
+
+
+  
