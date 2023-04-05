@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.93b462c9.css",
-    "main.js": "/static/js/main.bc912051.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/index.html",
-    "main.93b462c9.css.map": "/static/css/main.93b462c9.css.map",
-    "main.bc912051.js.map": "/static/js/main.bc912051.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/RandomQuoteMachine/static/css/main.93b462c9.css",
+    "main.js": "/RandomQuoteMachine/static/js/main.c8b90bc7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/RandomQuoteMachine/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/RandomQuoteMachine/index.html",
+    "main.93b462c9.css.map": "/RandomQuoteMachine/static/css/main.93b462c9.css.map",
+    "main.c8b90bc7.js.map": "/RandomQuoteMachine/static/js/main.c8b90bc7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/RandomQuoteMachine/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93b462c9.css",
-    "static/js/main.bc912051.js"
+    "static/js/main.c8b90bc7.js"
   ]
 }
